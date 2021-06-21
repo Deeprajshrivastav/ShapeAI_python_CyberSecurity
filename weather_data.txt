@@ -1,0 +1,24 @@
+
+
+		Weather Stats for - PUNE  || 21 Jun 2021 | 09:40:59 PM
+
+Current temperature is: 24.09 deg C
+Current weather desc  : overcast clouds
+Current Humidity      : 79% 
+Current wind speed    : {} Kmph 
+
+
+		Weather Stats for - MUMBAI  || 21 Jun 2021 | 09:41:07 PM
+
+Current temperature is: 29.99 deg C
+Current weather desc  : broken clouds
+Current Humidity      : 84% 
+Current wind speed    : {} Kmph 
+
+
+		Weather Stats for - JAPAN  || 21 Jun 2021 | 09:43:07 PM
+
+Current temperature is: 22.01 deg C
+Current weather desc  : broken clouds
+Current Humidity      : 77% 
+Current wind speed    : {} Kmph 
